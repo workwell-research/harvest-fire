@@ -5,7 +5,7 @@ Harvest FIRE: A Dynamic Withdrawal Framework for Lifetime Consumption Maximizati
 
 Replication Code for SSRN Working Paper
 
-Authors:  [Author Name]
+Authors:  Makiko yamashita
 Version:  1.0
 Date:     2026-02
 
